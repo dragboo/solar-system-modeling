@@ -14,6 +14,6 @@ The code provides answers to questions related to distances, functions, time-ser
 
 **Libraries Used:** 
 
-math
-numpy
-matplotlib.pyplot
+math <br />
+numpy <br />
+matplotlib.pyplot <br />
